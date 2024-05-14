@@ -23,7 +23,7 @@ This project is aimed at analyzing WhatsApp chat data to derive insights and tre
 ## Installation
 1. Clone the repository:
 
-git clone https://
+git clone https://https://github.com/svprferg/WhatsApp-Chat-Analysis
 
 ## CSS
 2. Navigate to the project directory:
